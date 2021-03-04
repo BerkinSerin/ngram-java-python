@@ -14,4 +14,3 @@ Python:
 
 ![Screenshot](3-gram-results-python.JPG)
 
-[![ngram-java-python](https://github-readme-stats.vercel.app/api/pin/?username=BerkinSerin&repo=ngram-java-python&show_owner=true)](https://github.com/BerkinSerin/ngram-java-python)
