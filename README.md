@@ -5,12 +5,12 @@ Finding ngrams of given txt files (merging all) and showing the results. Impleme
 
 Java:
 
-![Screenshot](3-gram-results-java)
+![Screenshot](3-gram-results-java.JPG)
 
 
 
 
 Python:
 
-![Screenshot](3-gram-results-python)
+![Screenshot](3-gram-results-python.JPG)
 
